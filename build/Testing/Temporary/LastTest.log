@@ -1,0 +1,18 @@
+Start testing: Jun 16 22:50 EEST
+----------------------------------------------------------
+1/1 Testing: cpp_test
+1/1 Test: cpp_test
+Command: "/Users/iuada0h0/Desktop/labs/lab2anal/build/cpp_test"
+Directory: /Users/iuada0h0/Desktop/labs/lab2anal/build
+"cpp_test" start time: Jun 16 22:50 EEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.18 sec
+----------------------------------------------------------
+Test Passed.
+"cpp_test" end time: Jun 16 22:50 EEST
+"cpp_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 16 22:50 EEST

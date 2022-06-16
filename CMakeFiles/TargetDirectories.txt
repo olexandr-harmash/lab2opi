@@ -1,0 +1,6 @@
+/Users/iuada0h0/Desktop/labs/lab2anal/CMakeFiles/sum_integers.dir
+/Users/iuada0h0/Desktop/labs/lab2anal/CMakeFiles/sum_up.dir
+/Users/iuada0h0/Desktop/labs/lab2anal/CMakeFiles/cpp_test.dir
+/Users/iuada0h0/Desktop/labs/lab2anal/CMakeFiles/test.dir
+/Users/iuada0h0/Desktop/labs/lab2anal/CMakeFiles/edit_cache.dir
+/Users/iuada0h0/Desktop/labs/lab2anal/CMakeFiles/rebuild_cache.dir
